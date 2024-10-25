@@ -668,6 +668,21 @@ nav .fa {
     color: #001d42;
 }
 
+.video_right video {
+    height: auto;
+    width: 590px;
+    padding-right: 70px;
+    padding-top: 50px;
+}
+
+.video_left video {
+    height: auto;
+    width: 590px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+
 .row .our_goals_col img {
     height: 26.5rem;
     margin-top: 1.875rem;
@@ -1812,3 +1827,18 @@ nav .fa {
 	animation-direction: forwards;
 	object-fit: cover;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
